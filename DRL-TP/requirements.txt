@@ -1,0 +1,12 @@
+matplotlib==2.2.5
+mininet===2.3.0d6
+networkx==2.2
+numpy==1.16.6
+ovs==2.13.0
+pandas==0.24.2
+requests==2.23.0
+Routes==2.4.1
+ryu==4.34
+torch==1.4.0
+tensorboardX==2.5
+
