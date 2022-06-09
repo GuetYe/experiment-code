@@ -16,6 +16,6 @@
 
 ​	Used to test the deep reinforcement learning algorithm
 
-## `Predict_main `
+### `Predict_main `
 
 ​	Used to train and test the GRU algorithm
