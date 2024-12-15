@@ -1,5 +1,5 @@
 # experiment-code
-DRL-TP experimental code.
+DRL-TP experimental code
 
 # detail #
 DRL-TP
